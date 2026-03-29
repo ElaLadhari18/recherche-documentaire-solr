@@ -1,0 +1,8 @@
+# requirements.txt
+# Installez toutes les dépendances avec la commande :
+#   pip install -r requirements.txt
+
+requests       # Pour communiquer avec l'API REST de Solr (requêtes HTTP)
+pymupdf        # Pour extraire le texte des fichiers PDF  (import fitz)
+python-docx    # Pour lire les fichiers Word (.docx)
+openpyxl       # Pour lire les fichiers Excel (.xlsx)
