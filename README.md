@@ -17,10 +17,8 @@ projet_solr/
 
 ---
 
-## Prérequis
-
-- Python 3.8 ou supérieur
-- Apache Solr installé et lancé (voir ci-dessous)
+- Python 3.8 ou +
+- Apache Solr installé et lancé 
 
 ---
 
